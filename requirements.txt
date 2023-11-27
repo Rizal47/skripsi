@@ -149,3 +149,4 @@ Werkzeug==2.1.2
 widgetsnbextension==3.6.0
 wrapt==1.14.1
 zipp==3.3.0
+rust==1.0.0

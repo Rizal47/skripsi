@@ -150,3 +150,4 @@ widgetsnbextension==3.6.0
 wrapt==1.14.1
 zipp==3.3.0
 rust==1.0.0
+cargo==0.2.3

@@ -122,7 +122,7 @@ smmap==5.0.0
 sniffio==1.2.0
 soupsieve==2.3.1
 stack-data==0.2.0
-streamlit==1.28.2
+streamlit
 tenacity==8.2.3
 tensorboard==2.14.1
 tensorboard-data-server==0.7.1

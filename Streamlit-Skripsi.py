@@ -80,7 +80,7 @@ def show_prediction():
     st.header('Dataset')
     st.text('Dataset ini berisi data kondisi lahan pertanian')
     # Baca dataset
-    data_pertanian = pd.read_csv('Crop_Recommendation.csv')
+    data_pertanian = pd.read_csv('Crop_recommendation.csv')
     st.dataframe(data_pertanian, height=600)
 
     st.title('Masukkan Data Baru')
